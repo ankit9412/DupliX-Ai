@@ -58,6 +58,6 @@ npm run package
 *   **`src/preload/preload.js`**: Context bridge exposing secure APIs from Electron to the React frontend.
 *   **`src/App.jsx`**: Main React layout, tabs, and routing.
 
-## License
+## License b
 
 MIT
